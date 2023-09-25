@@ -2,15 +2,15 @@
 
 https://medium.com/@sdhah1999/implementation-of-microservices-on-openshift-4-2-container-platform-fd2764da2d7
 
-A Python webapp which lets you vote between two options (Flask).
+A Python webapp which lets you vote between two options (Flask). \n
 
-A Redis queue which collects new votes (Redis Ephemeral).
+A Redis queue which collects new votes (Redis Ephemeral). \n
 
-A .NET worker which consumes votes and stores them in (Maven-Java-JAR).
+A .NET worker which consumes votes and stores them in (Maven-Java-JAR). \n
 
-A Postgres database backed by a Docker volume(PostgreSQL).
+A Postgres database backed by a Docker volume(PostgreSQL). \n
 
-A Node.js webapp which shows the results of the voting in real time (Node.js).
+A Node.js webapp which shows the results of the voting in real time (Node.js). \n
 
 Input UI
 ![image](https://github.com/ShrutShah/Openshift-Voting-app/assets/43044788/89251f5b-6419-4195-a4a3-760c21f06573)
