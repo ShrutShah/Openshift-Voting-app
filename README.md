@@ -21,3 +21,4 @@ Output UI
 This Seamless flow can be accomplished with Openshift Container Platform.
 
 
+[![An image of @shrutshah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shrutshah)](https://holopin.io/@shrutshah)
